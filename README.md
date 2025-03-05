@@ -12,10 +12,10 @@
         <td width="50%" align="center">
             <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Nexus0821&theme=dark&show_icons=true&count_private=true" />
             <br></br>
-            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nexus0821&theme=dark&hide_border=false" /> 
+            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nexusverypro&theme=dark&hide_border=false" /> 
         </td>
         <td width="50%" align="center">
-            <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nexus0821&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+            <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nexusverypro&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
         </td>
     </tr>
 </table>
@@ -23,7 +23,7 @@
 <!-- Trophies -->
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Nexus0821&theme=dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=nexusverypro&theme=dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
@@ -48,6 +48,6 @@
 <!-- Views -->
 <div id="user-views">
     <ul align="center" href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=Nexus0821&label=Profile%20Views&color=12&icon=5&pretty=false" />
+        <img src="https://visitcount.itsvg.in/api?id=nexusverypro&label=Profile%20Views&color=12&icon=5&pretty=false" />
     </ul>
 </div>
