@@ -1,10 +1,4 @@
 <!-- Intruduction -->
-<div id="user-content-toc">
-    <ul align="center">
-        <summary><h1 style="display: inline-block">Hello! My name is Nexus. 👋</h1></summary>
-    </ul>
-</div>
-
 <!-- Top lang -->
 <p align="center">
 <table align="center">
